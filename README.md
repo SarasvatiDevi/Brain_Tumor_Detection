@@ -16,13 +16,9 @@ A deep learning web application that classifies brain MRI scans into 4 tumor cat
 | Metric | Value |
 |--------|-------|
 | Overall Accuracy | **97%** |
-
 | Macro Avg Precision | 0.97 |
-
 | Macro Avg Recall | 0.97 |
-
 | Macro Avg F1-Score | 0.97 |
-
 | Test Set Size | 1,311 images |
 
 ### Per-Class Performance
