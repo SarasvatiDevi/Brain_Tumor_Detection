@@ -77,25 +77,15 @@ A deep learning web application that classifies brain MRI scans into 4 tumor cat
 
 ```
 brain-tumor-detection/
-
 │
-
 ├── app.py                    # Flask web app for real-time inference
-
 ├── brain_tumor_detection.py  # Model training, evaluation, ROC curves
-
 ├── models/
-
 │   └── image_classifier_model.h5   # Trained VGG16 model
-
 ├── templates/
-
 │   └── index.html            # Web interface
-
 ├── uploads/                  # Temporary uploaded MRI images
-
 ├── requirements.txt
-
 └── README.md
 ```
 
