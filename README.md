@@ -24,17 +24,11 @@ A deep learning web application that classifies brain MRI scans into 4 tumor cat
 ### Per-Class Performance
 
 | Class | Precision | Recall | F1-Score | Support |
-
 |-------|-----------|--------|----------|---------|
-
 | Glioma | 0.97 | 0.96 | 0.96 | 300 |
-
 | Meningioma | 0.92 | 0.96 | 0.94 | 306 |
-
 | No Tumor | 1.00 | 0.99 | 1.00 | 405 |
-
 | Pituitary | 0.99 | 0.97 | 0.98 | 300 |
-
 ---
 
 ## How It Works
