@@ -115,21 +115,13 @@ Then open `http://localhost:5000` in your browser and upload an MRI image.
 
 ```
 tensorflow
-
 flask
-
 numpy
-
 Pillow
-
 matplotlib
-
 seaborn
-
 scikit-learn
-
 gdown
-
 ```
 
 ---
